@@ -1,1 +1,1 @@
-# Proiect-practica
+In this project I developed a system for monitoring and controlling environmental conditions using concepts from the IoT field. You can find more details about this project in the "ProiectPractica" pdf.
